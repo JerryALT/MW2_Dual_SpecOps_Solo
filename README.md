@@ -18,7 +18,7 @@ Mod which can possible play on spec ops levels which were intended for two playe
 3. Download source code **[here](https://github.com/JerryALT/MW2_Dual_SpecOps_Solo/releases/latest/)**
 4. Download the latest mod release **[here](https://github.com/JerryALT/MW2_Dual_SpecOps_Solo/releases/latest/)**.
 5. From this .zip archive you need place spdata folder in your cod mw2 root folder.
-6. Download zonetool **[here](https://github.com/JerryALT/MW2_zonetool_sp/releases/tag/v1.0.0)** and placing the .zip content into your cod mw2 root folder.
+6. Download zonetool **[here](https://github.com/JerryALT/MW2_zonetool_sp/releases/tag/v1.0.0)** and place the .zip content into your cod mw2 root folder.
 7. Before placing the files recommend the make the mods folder and make folder with your name. - Example: "cod_mw2_root_dir/mods/mod_name".
 8. Place the .zip contents into your the newly created mod directory.
 9. For compile the mod needed just run .bat file "makeMod.bat"
