@@ -1,0 +1,13 @@
+#REQUIRES
+
+#require,iw4_credits
+
+#RAWFILES
+rawfile,maps/_loadout.gsc
+rawfile,maps/_specialops.gsc
+rawfile,maps/so_ac130_co_hunted.gsc
+rawfile,maps/so_chopper_invasion.gsc
+rawfile,maps/so_chopper_invasion_code.gsc
+
+#TABLES
+stringtable,mp/specOpsTable.csv
