@@ -1,6 +1,9 @@
 # MW2_Dual_SpecOps_Solo
 Mod which can possible play on spec ops levels which were intended for two players to solo.
 
+- Gameplay:
+[![Gameplay](https://img.youtube.com/vi/NRm_tzjDF6U/maxresdefault.jpg)](https://youtu.be/gDmDQPY_f1I)
+
 # Information before installing
 * Before installation recommend make backup "iw4sp.exe". Just rename your "iw4sp.exe" on "iw4sp_orig.exe".
 * This mod not compatible with IW4x SP.
